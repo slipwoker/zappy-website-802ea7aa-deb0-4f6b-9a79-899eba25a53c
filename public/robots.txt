@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yael-chagai-architecture-interior-design-802ea7aa.zappy5.app/sitemap.xml

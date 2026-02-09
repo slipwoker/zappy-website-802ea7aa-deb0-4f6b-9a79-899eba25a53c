@@ -1,0 +1,55 @@
+# YAEL CHAGAI architecture & interior design — Generative Engine Optimization Map
+
+> A אדריכלות ועיצוב פנים business.
+
+---
+
+## Pages
+
+### Home
+https://yael-chagai-architecture-interior-design-802ea7aa.zappy5.app
+
+### Projects
+https://yael-chagai-architecture-interior-design-802ea7aa.zappy5.app/projects
+
+### Project Detail
+https://yael-chagai-architecture-interior-design-802ea7aa.zappy5.app/projects/project
+
+### Contact
+https://yael-chagai-architecture-interior-design-802ea7aa.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://yael-chagai-architecture-interior-design-802ea7aa.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://yael-chagai-architecture-interior-design-802ea7aa.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://yael-chagai-architecture-interior-design-802ea7aa.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About YAEL CHAGAI architecture & interior design
+YAEL CHAGAI architecture & interior design is a business in the אדריכלות ועיצוב פנים industry.
+
+## Target Audience
+- בעלי בתים אמידים
+- יזמים בתחום המגורים
+- סוכני נדל"ן יוקרתיים
+
+## Industry
+אדריכלות ועיצוב פנים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://yael-chagai-architecture-interior-design-802ea7aa.zappy5.app/sitemap.xml
+- **Robots.txt**: https://yael-chagai-architecture-interior-design-802ea7aa.zappy5.app/robots.txt
